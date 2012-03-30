@@ -1,12 +1,12 @@
 Version notes
 -------------
 
-The currently available source code represents an early beta-version of Thread Smallbutton, even though it may be installable, we cannot guarantee a working installation at any time. You MUST NOT install and/or use the Thread Smallbutton in a production environment.
+The currently available source code represents an early beta-version of Achievementsystem: Integration for WoltLab User Blog, even though it may be installable, we cannot guarantee a working installation at any time. You MUST NOT install and/or use the Achievementsystem: Integration for WoltLab User Blog in a production environment.
 
 Contribution
 ------------
 
-Developers are always welcome to fork web-produktion/com.web-produktion.threadsmallbutton and provide features or bug fixes using pull requests. If you make changes or add classes it is mandatory to follow the requirements below:
+Developers are always welcome to fork web-produktion/com.web-produktion.achievements.user.blog and provide features or bug fixes using pull requests. If you make changes or add classes it is mandatory to follow the requirements below:
 
 * Testing is key, you MUST try out your changes before submitting pull requests
 * You MUST save your files with Unix-style line endings (\n)
