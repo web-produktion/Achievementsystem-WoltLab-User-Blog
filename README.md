@@ -23,4 +23,4 @@ License
 
 For the License, look on this page:
 
-http://www.gnu.org/licenses/lgpl.html
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
