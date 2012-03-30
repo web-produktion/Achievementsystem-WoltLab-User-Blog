@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/achievement.xsd">
+	<import>
+		<achievement>
+			<name>blog.1</name>
+			<object>UserBlogEntry</object>
+			<quantity>1</quantity>
+			<icon>blogM.png</icon>
+			<points>10</points>
+		</achievement>
+		
+		<achievement>
+			<name>blog.10</name>
+			<object>UserBlogEntry</object>
+			<quantity>10</quantity>
+			<icon>blogM.png</icon>
+			<points>20</points>
+		</achievement>
+		
+		<achievement>
+			<name>blog.50</name>
+			<object>UserBlogEntry</object>
+			<quantity>50</quantity>
+			<icon>blogM.png</icon>
+			<points>25</points>
+		</achievement>
+		
+		<achievement>
+			<name>blog.100</name>
+			<object>UserBlogEntry</object>
+			<quantity>100</quantity>
+			<icon>blogM.png</icon>
+			<points>50</points>
+		</achievement>
+		
+		<achievement>
+			<name>blog.250</name>
+			<object>UserBlogEntry</object>
+			<quantity>250</quantity>
+			<icon>blogM.png</icon>
+			<points>100</points>
+		</achievement>
+	</import>
+</data>

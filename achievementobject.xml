@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/achievement-object.xsd">
+	<import>
+		<categories>
+			<category name="blog">
+				<parent></parent>
+			</category>
+		</categories>
+		<objects>
+			<object>
+				<name>UserBlogEntry</name>
+				<parent>blog</parent>
+				<eventclassname>UserBlogEntryAddForm</eventclassname>
+				<eventname>saved</eventname>
+				<classfile>lib/data/user/achievement/object/UserBlogEntryAchievementObject.class.php</classfile>
+				<languagecategory>wcf.achievement</languagecategory>
+			</object>
+		</objects>
+	</import>
+</data>
